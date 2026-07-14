@@ -1,6 +1,6 @@
 # TileFit Privacy Policy
 
-Effective July 13, 2026
+Effective July 14, 2026
 
 TileFit respects your privacy. TileFit does not require an account, and the developer does not operate a server that stores your game data. TileFit uses third-party services for analytics and advertising as described below.
 
@@ -22,9 +22,21 @@ TileFit uses Google Mobile Ads to provide banner and rewarded advertisements. Ti
 
 Google processes analytics and advertising information under its own terms and privacy practices. For more information, review the [Google Privacy Policy](https://policies.google.com/privacy), [Google's information for partner apps](https://policies.google.com/technologies/partner-sites), and [Privacy and Security in Firebase](https://firebase.google.com/support/privacy).
 
+TileFit requires its analytics, advertising, and other service providers to handle information with the same or equivalent protection described in this policy and required by applicable law and Apple's App Review Guidelines.
+
 ## Advertising consent and tracking
 
-Where required, TileFit uses Google's consent system to ask for or manage consent before requesting ads. When Google requires a privacy-options entry point, it appears in TileFit's Settings screen. TileFit does not request Apple's App Tracking Transparency permission and does not use the advertising identifier to track you across other companies' apps or websites. Basic analytics collection is separate from advertising consent.
+Where required, TileFit uses Google's consent system to ask for or manage consent before requesting ads. When Google requires a privacy-options entry point, it appears in TileFit's Settings screen under **Ad Privacy Choices**, where you can review or withdraw your advertising consent. TileFit does not request Apple's App Tracking Transparency permission and does not use information for tracking across other companies' apps or websites. Basic analytics collection is separate from advertising consent.
+
+## Retention and deletion
+
+Game progress, virtual coin balances, and settings stored by TileFit remain on your device until they are replaced through normal app use or removed by deleting the app. Device backups controlled by you or Apple may retain a copy according to the backup service's settings and retention practices.
+
+Google retains analytics and advertising information according to its own retention policies. Because TileFit has no user accounts and does not send Google a name, email address, or developer-assigned user ID, the developer generally cannot identify or delete a particular person's Google analytics or advertising records. You can request help or deletion of any information the developer can reasonably identify and control by using the developer contact provided at TileFit's App Store Support URL. You may also delete TileFit's on-device data by deleting the app.
+
+## Reporting an advertisement
+
+Google-served ads can include an **AdChoices** or **Ads by Google** control that provides information about the ad and options to report inappropriate or age-inappropriate content. You can also report an ad using the developer contact provided at TileFit's App Store Support URL; include a screenshot when possible so the ad can be located and reviewed.
 
 ## Children's privacy
 
